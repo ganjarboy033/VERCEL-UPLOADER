@@ -1,0 +1,12 @@
+{
+  "name": "kruzen-vercel-uploader",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Web & CLI ZIP/HTML Deployer to Vercel by KruzenLab / Bagja Dev",
+  "scripts": {
+    "dev": "vercel dev"
+  },
+  "dependencies": {
+    "jszip": "^3.10.1"
+  }
+}
